@@ -4,10 +4,9 @@
     
 [Aline Kaplanian Linked.com Homepage](https://www.linkedin.com/in/aline-kaplanian/)
 
-<img src="data-science.jpg" width="45%"/>
 # **Check out my demo projects:**
 
-## [project1demo]([)](https://github.com/alinekap/project1demo)
+## [project1demo](https://github.com/alinekap/project1demo)
 
 Admin template based on Angular 7+, Bootstrap 4 and Nebular
 
