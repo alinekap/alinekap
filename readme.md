@@ -2,7 +2,7 @@
 
     AI Data Analytics Specialist passionate about working with data in modern business enviroments.  My technical areas of expertise include application design and development  in Python, SQL, and web (HTML, CSS, Javascript) languages in Docker, Windows, and Linux environments.  I have experience with dozens of Python packages for analytics and web development.  My portfolio includes many projects where I have applied my data analytics, website development, statistics and machine learning skills. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
     
-[Aline Kaplanian](https://www.linkedin.com/in/aline-kaplanian/)
+[Aline Kaplanian Linked.com Homepage](https://www.linkedin.com/in/aline-kaplanian/)
 
 <img src="data-science.jpg" width="45%"/>
 # **Check out my demo projects:**
