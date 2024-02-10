@@ -2,49 +2,14 @@
 
 <p>
     AI Data Analytics Specialist passionate about working with data in modern business enviroments.  My technical areas of expertise include application design and development  in Python, SQL, and web (HTML, CSS, Javascript) languages in Docker, Windows, and Linux environments.  I have experience with dozens of Python packages for analytics and web development.  My portfolio includes many projects where I have applied my data analytics, website development, statistics and machine learning skills. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
-    <a href="https://www.linkedin.com/in/diandra-melo-99315711b/" rel="nofollow">
+    
+    <a href="["](https://www.linkedin.com/in/aline-kaplanian/) rel="nofollow">
         <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
     <a href="mailto:parkerwellins@gmail.com?subject=[GitHub]%20Hello%20Abraham" >
         <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-
-## YOUR HOME PAGE BANNER IMAGE
-
-### INSERT AND PROPERLY SCALE YOUR HOME PAGE BANNER IMAGE
-
-**The cell below is used to import your banner image and properly scale it.**   
-
-How to scale images using Markdown and HTML: 
-https://stackoverflow.com/questions/60627697/how-to-shrink-the-size-of-the-image-that-has-opened-in-jupyter-notebook-by-using/60638679#60638679
-
-***Rotating gifs work great and attract and retain attention better than static images.*  
-
-Be careful to select a banner image that is very wide (most of the viewable page width), and not very tall.  Images that are too tall consume too much of your home page header vertical area.  This distracts people and does not let them see your written descriptions immediately.  It forces them to scroll to see your written content, which is risky because people with little time or attention span can become impatient and just move on to another website.**
-
-***DELETE THESE INSTRUCTIONS WHEN FINISHED:***
-
-***IMAGE SCALED TO 45% BUT NOT WIDE ENOUGH***
-
 <img src="data-science.jpg" width="45%"/>
-
-***IMAGE TOO BIG*** 
-
-(remove the "image/" in (image/data-science.jpg) to see the oversized image.)
-##### ![welcome_gif](image/data-science.jpg)
-
-***HERE'S AN EXAMPLE OF A ROTATING GIF IMAGE***
-
-***DELETE THIS CELL WHEN FINISHED:***
-
-https://raw.githubusercontent.com/diandramelo/diandramelo/main/welcome.gif
-
-![Welcome!](https://raw.githubusercontent.com/diandramelo/diandramelo/main/welcome.gif)
-
-***banner image rotating gif made smaller***
-
-<img src="https://raw.githubusercontent.com/diandramelo/diandramelo/main/welcome.gif" width="45%"/>
-
-# **Check out my main projects:**
+# **Check out my demo projects:**
 
 ## [project1demo]([)](https://github.com/alinekap/project1demo)
 
@@ -53,12 +18,6 @@ Admin template based on Angular 7+, Bootstrap 4 and Nebular
 ## [Hackathon Backend](https://github.com/OctoCode/hackaton-backend)
 
 Hackaton Copa 2019 (BackEnd) 
-
-## [Hackaton Copa 2019 (AI)](https://github.com/OctoCode/hackaton-ai)
-
-Hackaton Copa 2019 (AI) 
-
-<!--**alg2code/alg2code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
